@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SmallGold
+  - MiddleGold
+  - BigGold
+  - SuperBigGold
+  - SmallRock
+  - MiddleRock
+  - BigRock
+  - Diamond
+  - Pig
+  - PHYEdge
   layers:
   - Default
   - TransparentFX
